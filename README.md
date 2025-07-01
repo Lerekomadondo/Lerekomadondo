@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Lereko
+https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BrzenrURnT7CBAMU4ViCZmA%3D%3D
 
-<!--
-**Lerekomadondo/Lerekomadondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction] 
+ I am a recent graduate with a profoud interest in technology and a dedication to sloving complex problems
+ 
 
-Here are some ideas to get you started:
+## objective
+[Provide Objective]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Jonrney in information systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center(SOC) as a Tier 1 Analyst.
+
+##skills
+
+
+
+
+## Tools
+
+
+
+
+## Certifications
+<div>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/KP48R0DZTBCM" target="_blank">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white" alt="Google Cybersecurity Certificate" />
+  </a>
+</div>
+
+## Projects
+
